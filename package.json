@@ -1,0 +1,27 @@
+{
+  "name": "marketplaces-kriptoaves",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blockchainerethereumon/pajaros-marketplaces.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blockchainerethereumon/pajaros-marketplaces/issues"
+  },
+  "homepage": "https://github.com/blockchainerethereumon/pajaros-marketplaces#readme",
+  "dependencies": {
+    "next": "^12.1.4",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
